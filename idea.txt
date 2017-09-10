@@ -1,0 +1,17 @@
+browser start page
+
+1. single page interface hub
+
+2. quick links to popular sites/apps
+3. interactive mini expandable sections for news/weather/streams etc
+4. phone/tab support
+
+2.a. moveable tiles with site/app icon/favicon
+b. quick remove/add link option
+c. desktop app links
+d. hover effects
+
+3.a. expandable
+b. youtube/twitch - no autoplay
+c. Goog docs sync - access from single page
+d. top torrents/news/sales
