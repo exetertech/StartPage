@@ -1,4 +1,4 @@
-browser start page
+Browser start page
 
 1. single page interface hub
 
