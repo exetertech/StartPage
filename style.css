@@ -1,4 +1,14 @@
-.navbar {
-
-  background-color: grey;
+#RSSregister {
+  width: 30%;
+}
+td {
+  width: 60px;
+  height: 60px;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+td:hover {
+  transform:scale(1.1);
 }
